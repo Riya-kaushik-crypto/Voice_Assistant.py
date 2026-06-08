@@ -2,7 +2,7 @@ import speech_recognition as sr
 import pyttsx3
 engine = pyttsx3.init()
 engine.setProperty('rate', 160)
-engine.say("Namaste ,  Aman sir I am your Assistant, how are you today may i help you  ?")
+engine.say("Namaste ,  Riya Mam I am your Assistant, how are you today may i help you  ?")
 engine.runAndWait()
 import datetime
 import wikipedia
